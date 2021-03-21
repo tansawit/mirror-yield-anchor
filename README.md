@@ -19,11 +19,11 @@ TARGET_ASSET="MIR"
 1. install dependency
 
 ```bash
-$ npm install
+yarn
 ```
 
 2. start 
 
 ```bash
-$ npm start
+npm start
 ```
