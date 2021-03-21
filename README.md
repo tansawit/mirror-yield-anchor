@@ -1,6 +1,6 @@
 # Mirror Yield Anchor
 
-Inspired by [YunSuk Yeo](https://github.com/YunSuk-Yeo)'s [autostaker](https://github.com/YunSuk-Yeo/autostaker), this helper tool automates claiming liquidity providing rewards from [Mirror Protocol](https://mirror.finance), swapping the rewards to TerraUSD stablecoin, and putting the rewards into [Anchor Protocol](https://anchorprotocol.com).
+Based off of [YunSuk Yeo](https://github.com/YunSuk-Yeo)'s [autostaker](https://github.com/YunSuk-Yeo/autostaker), this helper tool automates claiming liquidity providing rewards from [Mirror Protocol](https://mirror.finance), swapping the rewards to TerraUSD stablecoin, and putting the rewards into [Anchor Protocol](https://anchorprotocol.com).
 
 ## Usage
 
