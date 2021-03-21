@@ -2,6 +2,7 @@ require('dotenv').config();
 
 import Mir from './Mirror';
 import Anc from './Anchor';
+
 const REWARD_CHECK_INTERVAL_MIN = parseInt(
   process.env.REWARD_CHECK_INTERVAL_MIN || '10'
 );
